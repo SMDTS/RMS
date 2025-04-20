@@ -4,7 +4,7 @@ A collaborative project for **CS107.3 - Object Oriented Programming with C#**, d
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This system provides end-to-end restaurant management capabilities, including:
 
@@ -18,7 +18,7 @@ This system provides end-to-end restaurant management capabilities, including:
 
 ---
 
-## 🚧 Tech Stack
+## Tech Stack
 
 | Layer | Tech |
 |-------|------|
@@ -29,7 +29,7 @@ This system provides end-to-end restaurant management capabilities, including:
 
 ---
 
-## 👥 Team Structure
+## Team Structure
 
 | Member | Role |
 |--------|------|
@@ -38,7 +38,7 @@ This system provides end-to-end restaurant management capabilities, including:
 
 ---
 
-## 🧪 How to Run the Project
+## How to Run the Project
 
 1. Clone the repo:
    ```bash
