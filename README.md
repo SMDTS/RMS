@@ -29,15 +29,6 @@ This system provides end-to-end restaurant management capabilities, including:
 
 ---
 
-## Team Structure
-
-| Member | Role |
-|--------|------|
-| Member 1 | Version Control, Backend Coding, Code Reviewing (Main Branch) |
-| Member 2–10 | [Assign roles as per your structure] |
-
----
-
 ## How to Run the Project
 
 1. Clone the repo:
