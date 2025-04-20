@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-A collaborative project for **CS107.3 - Object Oriented Programming with C#**, developed by Group [BI].
+A collaborative project for **CS107.3 - Object Oriented Programming with C#**, developed by Group BI.
 
 ---
 
