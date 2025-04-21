@@ -1,0 +1,14 @@
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.App.exe.config
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.App.exe
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.App.pdb
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.Backend.dll
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.Common.dll
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.Backend.pdb
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\bin\Debug\RestaurantManagementSystem.Common.pdb
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\RestaurantManagementSystem.App.csproj.AssemblyReference.cache
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\RestaurantManagementSystem.App.Properties.Resources.resources
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\RestaurantManagementSystem.App.csproj.GenerateResource.cache
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\RestaurantManagementSystem.App.csproj.CoreCompileInputs.cache
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\Restaura.7298A793.Up2Date
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\RestaurantManagementSystem.App.exe
+E:\DevProjects\Restaurant-Management-System\App\RestaurantManagementSystem.App\obj\Debug\RestaurantManagementSystem.App.pdb

@@ -1,0 +1,6 @@
+E:\DevProjects\Restaurant-Management-System\Common\RestaurantManagementSystem.Common\bin\Debug\RestaurantManagementSystem.Common.dll
+E:\DevProjects\Restaurant-Management-System\Common\RestaurantManagementSystem.Common\bin\Debug\RestaurantManagementSystem.Common.pdb
+E:\DevProjects\Restaurant-Management-System\Common\RestaurantManagementSystem.Common\obj\Debug\RestaurantManagementSystem.Common.csproj.AssemblyReference.cache
+E:\DevProjects\Restaurant-Management-System\Common\RestaurantManagementSystem.Common\obj\Debug\RestaurantManagementSystem.Common.csproj.CoreCompileInputs.cache
+E:\DevProjects\Restaurant-Management-System\Common\RestaurantManagementSystem.Common\obj\Debug\RestaurantManagementSystem.Common.dll
+E:\DevProjects\Restaurant-Management-System\Common\RestaurantManagementSystem.Common\obj\Debug\RestaurantManagementSystem.Common.pdb
