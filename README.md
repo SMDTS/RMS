@@ -33,7 +33,7 @@ This system provides end-to-end restaurant management capabilities, including:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/Restaurant-Management-System.git
+   git clone https://github.com/ItsKalfox/Restaurant-Management-System.git
    ```
 2. Open the solution in Visual Studio
 3. Restore NuGet packages if needed
