@@ -47,7 +47,7 @@ This system provides end-to-end restaurant management capabilities, including:
 This is a practice task to help everyone get comfortable with Git, branches, and pull requests before we start working on the actual project.
 
 ### Objective:
-Add your full name and university ID to the `members.txt` file inside the `test` folder by creating a new branch and submitting a pull request (PR) to the `dev` branch.
+Add your full name and university ID to the `members.txt` file inside the `GitTest` folder by creating a new branch and submitting a pull request (PR) to the `dev` branch.
 
 ### Step-by-step Instructions:
 
